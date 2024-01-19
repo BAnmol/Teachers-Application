@@ -1,0 +1,46 @@
+{
+  "students_data":[
+     
+  ],
+  "user_name": "Anmol Bhoyar",
+  "notice_section": [
+    {
+      "id": 1,
+      "title": "Parent-Teacher Meeting",
+      "content": "There will be a Parent-Teacher meeting on 2024-02-15 at 11 AM. Please ensure your participation.",
+      "date": "2024-02-15"
+    },
+    {
+      "id": 2,
+      "title": "Annual Sports Day",
+      "content": "Our Annual Sports Day is scheduled for 2024-03-10. All students are encouraged to participate in various sports events.",
+      "date": "2024-03-10"
+    },
+    {
+      "id": 3,
+      "title": "Exam Schedule",
+      "content": "The upcoming semester exams will start on 2024-04-05. Make sure to prepare thoroughly.",
+      "date": "2024-04-05"
+    },
+    {
+      "id": 4,
+      "title": "School Holiday",
+      "content": "The school will remain closed on 2024-05-01 due to a public holiday. Enjoy your day off!",
+      "date": "2024-05-01"
+    }
+  ],
+  "events":[
+    {
+      "name": "Teachers Meet at 3:00 PM today."
+    },
+    {
+      "name": "Reupblic day celebration and flag hoisting at 7:00 AM on 26th January 2024."
+    },
+    {
+      "name": "Sports day event on 24th January 2024."
+    },
+    {
+      "name": "Your lecture has been cancelld on 25th due to event."
+    }
+  ]
+}
